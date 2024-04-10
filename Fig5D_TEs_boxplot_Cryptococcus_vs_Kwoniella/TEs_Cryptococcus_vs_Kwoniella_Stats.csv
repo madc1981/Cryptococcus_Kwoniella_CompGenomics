@@ -1,0 +1,12 @@
+Statistic,Value,p-value,Species
+Mean Cryptococcus,3.4669187586092383,,
+Mean Kwoniella,0.43460274342154936,,
+Median Cryptococcus,2.72919035907879,,
+Median Kwoniella,0.1943043196792,,
+Min Cryptococcus,0.8567265764353601,,Cryptococcus_sp._OR918
+Min Kwoniella,0.01580450371699,,Kwoniella_heveanensis_CBS569
+Max Cryptococcus,6.973416436261689,,Cryptococcus_floricola_DSM27421
+Max Kwoniella,1.28761905727459,,Kwoniella_shandongensis_CBS12478
+Shapiro-Wilk Cryptococcus,,0.050768475979566574,
+Shapiro-Wilk Kwoniella,,0.0077720386907458305,
+Mann-Whitney U,207.0,9.431038634034753e-06,

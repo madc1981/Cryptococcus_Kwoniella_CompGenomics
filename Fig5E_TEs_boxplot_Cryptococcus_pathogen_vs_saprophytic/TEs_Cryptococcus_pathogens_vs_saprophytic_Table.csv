@@ -1,0 +1,15 @@
+Organism,percentage,Group
+Cryptococcus_neoformans_H99,5.679993977966459,pathogen
+Cryptococcus_deneoformans_JEC21,5.56136302298762,pathogen
+Cryptococcus_bacillisporus_CA1280,2.45735245063735,pathogen
+Cryptococcus_decagattii_7685027,4.118159133561051,pathogen
+Cryptococcus_gatti_WM276,3.0010282675202298,pathogen
+Cryptococcus_tetragattii_IND107,1.62651206862706,pathogen
+Cryptococcus_sp._MF34,1.78601838784799,pathogen
+Cryptococcus_deuterogattii_R265,1.49438277409123,pathogen
+Cryptococcus_depauperatus_CBS7841,5.43454209853333,saprophytic
+Cryptococcus_floricola_DSM27421,6.973416436261689,saprophytic
+Cryptococcus_wingfieldii_CBS7118,6.27063727447129,saprophytic
+Cryptococcus_amylolentus_CBS6039,1.72057303788161,saprophytic
+Cryptococcus_sp._OR849,1.55615711370706,saprophytic
+Cryptococcus_sp._OR918,0.8567265764353601,saprophytic

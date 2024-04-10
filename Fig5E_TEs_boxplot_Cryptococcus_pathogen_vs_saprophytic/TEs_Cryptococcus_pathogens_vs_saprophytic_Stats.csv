@@ -1,0 +1,12 @@
+Statistic,Value,p-value,Species
+Mean pathogen,3.2156012604048736,,
+Mean saprophytic,3.802008756215057,,
+Median pathogen,2.72919035907879,,
+Median saprophytic,3.57755756820747,,
+Min pathogen,1.49438277409123,,Cryptococcus_deuterogattii_R265
+Min saprophytic,0.8567265764353601,,Cryptococcus_sp._OR918
+Max pathogen,5.679993977966459,,Cryptococcus_neoformans_H99
+Max saprophytic,6.973416436261689,,Cryptococcus_floricola_DSM27421
+Shapiro-Wilk pathogen,,0.13566350936889648,
+Shapiro-Wilk saprophytic,,0.14539338648319244,
+Mann-Whitney U,23.0,0.9497169497169498,
