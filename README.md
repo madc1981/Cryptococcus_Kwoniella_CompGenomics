@@ -23,12 +23,9 @@ This project requires R and/or Python 3.6+ and the packages indicated in each sc
 ## Installation
 No specific installation is required. Simply clone this repository using `git clone`.
 
-## Usage
-To generate plots for Figure 5A, run:
-
 ## Citation
 For citing this work, please refer to:
 Coelho & David-Palma et al., 2024 (under revision)
 
-## License
-This project is released under the [License Name] license. For more details, see the LICENSE file.
+## Authors
+Marco A. Coelho (Duke University) @ Heitman Lab
