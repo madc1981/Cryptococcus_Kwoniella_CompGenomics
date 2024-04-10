@@ -5,8 +5,7 @@ Cryptococcus and Kwoniella Comparative Genomic Analysis
 These scripts and data support the comparative genomics analysis of Cryptococcus and Kwoniella, as published in Coelho & David-Palma et al., 2024.
 
 ## Scripts and Data
-We include both Python and R scripts for data statistical analysis and plotting, corresponding to the figures listed in our publication.
-These scripts facilitate replication of figures and supplementary figures as listed:
+We include both Python and R scripts for statistical analysis and plotting, to facilitate replication of the following figures and supplementary figures:
 
 1. Fig5A_Cen_length_stats_and_plots_scripts
 2. Fig5B_TE_Classes_and_plots_scripts
