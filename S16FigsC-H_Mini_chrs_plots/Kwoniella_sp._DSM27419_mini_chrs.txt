@@ -1,0 +1,6 @@
+chr_13
+chr_14
+chr_15
+chr_16
+chr_17
+chr_18
