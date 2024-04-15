@@ -16,6 +16,7 @@ This repository contains Python and R scripts for statistical analysis and visua
 7. Fig5G_TEs_vs_AvgCenLength
 8. S1FigD_GCcontent_ridgline_plot
 9. S1FigsH-N_Genomic_features
+10. S16FigsC-H_Mini_chrs_plots
 
 ## Dependencies
 This project requires R and/or Python 3.6+ and the packages indicated in each script.
