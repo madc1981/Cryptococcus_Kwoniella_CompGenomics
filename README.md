@@ -14,9 +14,11 @@ This repository contains Python and R scripts for statistical analysis and visua
 5. Fig5E_TEs_boxplot_Cryptococcus_pathogen_vs_saprophytic
 6. Fig5F_TEs_vs_Genome_size
 7. Fig5G_TEs_vs_AvgCenLength
-8. S1FigD_GCcontent_ridgline_plot
-9. S1FigsH-N_Genomic_features
-10. S16FigsC-H_Mini_chrs_plots
+8. Fig7A_UpSet_plot_Cryptococcus_Kwoniella
+9. Fig7B_Categorizing_orthology_classes
+10. S1FigD_GCcontent_ridgline_plot
+11. S1FigsH-N_Genomic_features
+12. S16FigsC-H_Mini_chrs_plots
 
 ## Dependencies
 This project requires R and/or Python 3.6+ and the packages indicated in each script.
