@@ -25,6 +25,7 @@ This repository contains Python and R scripts for statistical analysis and visua
 14. S14FigC_Argonaute_phylogeny
 15. S15FigC_Znf3_phylogeny
 16. S16FigsC-H_Mini_chrs_plots
+17. S17FigsB-C_Zinc_transp_&_Pra1_phylogenies
 
 ## Dependencies
 This project requires R and/or Python 3.6+ and the packages indicated in each script.
