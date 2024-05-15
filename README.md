@@ -1,7 +1,7 @@
 # Cryptococcus_Kwoniella_CompGenomics
 Cryptococcus and Kwoniella Comparative Genomic Analysis
 
-[![DOI](https://zenodo.org/badge/784913000.svg)](https://zenodo.org/doi/10.5281/zenodo.11198782)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11199354.svg)](https://doi.org/10.5281/zenodo.11199354)
 
 ## Introduction
 These scripts and data support the comparative genomics analysis of Cryptococcus and Kwoniella, as published in Coelho & David-Palma et al., 2024.
